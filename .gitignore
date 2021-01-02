@@ -1,0 +1,17 @@
+bin/
+build/
+dist/
+lib/luajit/src/buildvm.exp
+lib/luajit/src/buildvm.lib
+lib/luajit/src/lua51.dll
+lib/luajit/src/lua51.exp
+lib/luajit/src/lua51.lib
+lib/luajit/src/luajit.exe
+lib/luajit/src/luajit.exp
+lib/luajit/src/luajit.lib
+lib/luajit/src/minilua.exp
+lib/luajit/src/minilua.lib
+lib/luajit/src/jit/vmdef.lua
+lib/luajit-imgui/lua/imgui/cdefs.lua
+lib/luajit-imgui/lua/imgui/glfw.lua
+lib/luajit-imgui/lua/imgui/sdl.lua
